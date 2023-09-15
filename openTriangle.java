@@ -29,7 +29,14 @@ class openTriangle {
 
         // the rest of the rows except the last
         for (int i = 1; i < n -2 ; i++) {
+            System.out.println(" ");
+        }
 
+        System.out.println(c);
+
+        // final line {#844, 3}
+        for (int i = 1; i <= n; i++) {
+            System.out.println(c);
         }
     }
 }
