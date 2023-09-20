@@ -1,4 +1,4 @@
-# **ETOX**
+# **Open Triangle**
 ## Objective
 
 - Write a method printTriangle that has a char parameter c and an int parameter n. The method should print a triangular pattern with the perimeter consisting of the character c and the interior (if there is one) consisting of blanks. As an example, the call printTriangle('*',5); should produce output of the form
